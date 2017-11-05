@@ -1,2 +1,2 @@
-# Fechadura_RFID---Batlock
-Automatização de uma porta utilizando RFID feito para a disciplina de Sistemas Embarcados (STE29008)
+# Batlock---STE29008
+Projeto da disciplina STE29008, referente a automatização de uma porta utilizando RFID
